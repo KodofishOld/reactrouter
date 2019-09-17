@@ -1,0 +1,4 @@
+1.Commit
+2.Fetch
+3.Pull
+4.Push

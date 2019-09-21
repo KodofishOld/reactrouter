@@ -1,0 +1,35 @@
+.box1{
+    position: absolute;
+    width: 150px;
+    height: 75px;
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    right: 800px;
+    top:65%
+}
+
+.box2{
+    position: absolute;
+    width: 150px;
+    height: 75px;
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    right: 570px;
+    top:65%
+}
+
+.box3{
+    position: absolute;
+    width: 150px;
+    height: 75px;
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    right: 350px;
+    top:65%
+}

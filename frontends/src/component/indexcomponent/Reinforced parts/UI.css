@@ -1,0 +1,50 @@
+.img{
+    position: fixed;
+    margin:0;
+    padding:0;
+    width: 109%;
+    background-size: cover;
+}
+p{
+    color: white;
+}
+.t1{
+    position: absolute;
+    font-size: 72px;
+    letter-spacing: 5px;
+    font-weight: 300;
+    text-align:center;
+}
+.t1 h1{
+    color: white;
+}
+.t2{
+    position: absolute;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 200;
+    text-align:center;
+    left: 31%;
+    top:23%;
+}
+.t2 h5{
+    color: white;
+}
+.t3{
+    position: absolute;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 200;
+    text-align:center;
+    left: 31%;
+    top:60%;
+}
+.t3 h5{
+    color: white;
+}
+
+.time{
+    position: absolute;
+    font-size: 24px;
+    color: white;
+}

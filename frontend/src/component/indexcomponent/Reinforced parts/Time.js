@@ -1,5 +1,4 @@
 import React from "react";
-import './Time.css'
 import { List, Avatar } from 'antd';
 
 const data = [

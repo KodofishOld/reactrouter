@@ -1,8 +1,8 @@
 import React from "react";
-import { Statistic } from 'antd';
+import { Avatar,Icon } from 'antd';
 import './UI.css'
 import UItime from "./UItime";
-
+import Heads from "../Head/Heads";
 const background = require('./iamge/tec.jpg');
 const i2 = require('./iamge/br.png');
 
@@ -11,6 +11,9 @@ class Box extends React.Component{
         return(
            <div>
                <img className="img" src={background}/>
+               <div>
+                   <Heads />
+               </div>
                <div className="temp" style={{paddingTop:200,paddingLeft:150}}>
                    <div className="t1">
                        <h1>
